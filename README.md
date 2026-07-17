@@ -85,7 +85,3 @@ The notebook reports:
 ├── diabetes_Boosting.ipynb
 └── README.md
 ```
-
-## License
-
-This project is available under the MIT License.
